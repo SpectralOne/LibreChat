@@ -7,3 +7,4 @@ export * from './json';
 export * from './capabilities';
 export * from './concurrency';
 export * from './checkBalance';
+export * from './remoteAgentAuth';
